@@ -29,4 +29,5 @@ This is a simple login system made using HTML, CSS, and JavaScript.
 Simple login page with validation message.
 
 ## 👩‍💻 Author
-Your Name
+Shivani Jha
+
